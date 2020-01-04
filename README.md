@@ -31,7 +31,7 @@
 
 ### Fibonacci
 
-| Array Size | Elapsed Time (millisecond) |
+| Up To | Elapsed Time (millisecond) |
 | ----: | :---- |
 |1      |0   |
 |2      |0   |
